@@ -3,7 +3,7 @@
 <h2>🎮 Game Development Projects:</h2>
 
 - <b>Game Created With Godot </b>
-  - [Egg Game](https://github.com/YADHUKISHANTR/Egg-Game) 
+  - [Egg Jump](https://github.com/YADHUKISHANTR/Egg-Game) 
 - <b>Games Creating using Unity</b>
   - [Mini Games Collection](https://github.com/YADHUKISHANTR/Unity-Mini-Games)
 
