@@ -10,5 +10,5 @@
 <h2>🤖 AI / Deep Learning Projects:</h2>
 
 - <b>Deep Learning using PyTorch</b>
-  - [Sign Language Detector](https://github.com/YADHUKISHANTR/Sign-Language-Detection) 
+  - [Sign Language Translator](https://github.com/YADHUKISHANTR/Sign-Language-Detection) 
 
